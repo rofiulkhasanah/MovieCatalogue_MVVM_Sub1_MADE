@@ -5,6 +5,7 @@
 Aplikasi Movie Catalogue merupakan submission atau capstone project dari kelas Menjadi Android Developer Expert (MADE) dari dicoding, dan ini untuk memenuhi submission 1
 
 ### Project ini menerapkan MVVM, Clean Architecture & Modularization
+- FAB for Favorite Movie
 - Retrofit
 - Coroutine Flow (Reactive Programming)
 - Koin (Dependency Injection)
@@ -16,3 +17,4 @@ Aplikasi Movie Catalogue merupakan submission atau capstone project dari kelas M
 ## Preview App
 ![Home](home.jpg)
 ![Favorite](favorite.jpg)
+![Detail](detail.jpg)
