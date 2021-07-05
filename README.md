@@ -16,5 +16,5 @@ Aplikasi Movie Catalogue merupakan submission atau capstone project dari kelas M
 
 ## Preview App
 ![Home](home.jpg)
-![Favorite](favorite.jpg)
+![Favorite](fav.jpg)
 ![Detail](detail.jpg)
